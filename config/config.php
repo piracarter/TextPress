@@ -1,9 +1,9 @@
 <?php
 return array(
-    'site.baseurl'      => 'http://textpress.shameerc.com',   // Site URL (Global)
-    'site.name'         => 'TextPress',   // Site name (Global)
-    'site.title'        => 'PHP Flat-file blog engine',  // Site default title (Global)
-    'site.description'  => 'TextPress is an open source flat-file blog engine for PHP',  // Site default description (Global)
+    'site.baseurl'      => 'http://blog-certificatestudio.4b63.pro-ap-southeast-2.openshiftapps.com',   // Site URL (Global)
+    'site.name'         => 'certificatestudio',   // Site name (Global)
+    'site.title'        => 'Certificate Studio',  // Site default title (Global)
+    'site.description'  => '',  // Site default description (Global)
     'author.name'       => 'Author name', // Global author name 
     'article.path'      => './articles',      // Path to articles
     'date.format'       => 'd M, Y',   // Date format to be used in article page (not for routes)   
