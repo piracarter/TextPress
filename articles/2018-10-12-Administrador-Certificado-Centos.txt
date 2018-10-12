@@ -1,9 +1,9 @@
 ﻿{
- "title":"Administrador Certificado en Centos",
- "date" : "12-10-2018",
- "author" : "Shameer",
- "tag" : "Centos,SysAdmin,RHCSA",
- "category":"News"
+"title":"Administrador Certificado en Centos",
+"author":"Shameer",
+"date":"20-11-2012",
+"tag":"Slim,news",
+"category":"News"
 }
 
 Los profesionales de TI que en su diario quehacer profesional administran sistemas Linux pueden obtener la certificación como "Administradores Certificados", esta certificación se  obtiene 
