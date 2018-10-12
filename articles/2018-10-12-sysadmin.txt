@@ -1,5 +1,5 @@
 ﻿{
-"title":"Administrador Certificado en Centos",
+"title" : "Upgraded to Slim framework 2",
 "author":"Shameer",
 "date":"20-11-2012",
 "tag":"Slim,news",
