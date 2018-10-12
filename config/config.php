@@ -3,7 +3,7 @@ return array(
     'site.baseurl'      => 'http://blog-certificatestudio.4b63.pro-ap-southeast-2.openshiftapps.com',   // Site URL (Global)
     'site.name'         => 'certificatestudio',   // Site name (Global)
     'site.title'        => 'Certificate Studio',  // Site default title (Global)
-    'site.description'  => '',  // Site default description (Global)
+    'site.description'  => 'Certifacate Studio',  // Site default description (Global)
     'author.name'       => 'Author name', // Global author name 
     'article.path'      => './articles',      // Path to articles
     'date.format'       => 'd M, Y',   // Date format to be used in article page (not for routes)   
