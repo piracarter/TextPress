@@ -6,8 +6,7 @@
 "category":"News"
 }
 
-Los profesionales de TI que en su diario quehacer profesional administran sistemas Linux pueden obtener la certificación como "Administradores Certificados", esta certificación se  obtiene 
-después de presentar alguno de los siguientes exámenes: EX200 de Redhat (Red Hat Certified System Administrator), LPIC-1: System Administrator, Suse Certified Administrator.
+Los profesionales de TI que en su diario quehacer profesional administran sistemas Linux pueden obtener la certificación como "Administradores Certificados", esta certificación se  obtiene después de presentar alguno de los siguientes exámenes: EX200 de Redhat (Red Hat Certified System Administrator), LPIC-1: System Administrator, Suse Certified Administrator.
 
 ## Dirigido a:
 
