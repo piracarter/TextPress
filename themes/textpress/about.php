@@ -20,14 +20,14 @@ en tiempo y recursos.</p>
 y mayores probabilidades de afrontar con &eacute;xito un examen de certificaci&oacute;n en su primer intento.&nbsp; Los elementos incluidos dentro de una de nuestras 
 capacitaciones es lo siguiente:</p>
 <ul>
-<li style="margin-left: 38.25pt; text-indent: -18.0pt;">Desarrollo del plan personal de estudio</li>
-<li style="margin-left: 38.25pt; text-indent: -18.0pt;">Revisi&oacute;n y Comprensi&oacute;n del tipo de examen a presentar.</li>
-<li style="margin-left: 38.25pt; text-indent: -18.0pt;">Orientaci&oacute;n sobre las trayectorias de plan de carrera.</li>
-<li style="margin-left: 38.25pt; text-indent: -18.0pt;">Revisi&oacute;n de los temas/objetivos de examen publicados por la Compa&ntilde;&iacute;a que ofrece el examen.</li>
-<li style="margin-left: 38.25pt; text-indent: -18.0pt;">Implementaci&oacute;n de un laboratorio de estudio para practicar los objetivos del examen.</li>
-<li style="margin-left: 38.25pt; text-indent: -18.0pt;">Laboratorios online para practicar los objetivos del examen.</li>
-<li style="margin-left: 38.25pt; text-indent: -18.0pt;">Material Impreso y kit de alumno</li>
-<li style="margin-left: 38.25pt; text-indent: -18.0pt;">Soporte de 1 mes adicional al t&eacute;rmino del curso en laboratorios online y asesor&iacute;a.</li>
+<li>Desarrollo del plan personal de estudio</li>
+<li>Revisi&oacute;n y Comprensi&oacute;n del tipo de examen a presentar.</li>
+<li>Orientaci&oacute;n sobre las trayectorias de plan de carrera.</li>
+<li>Revisi&oacute;n de los temas/objetivos de examen publicados por la Compa&ntilde;&iacute;a que ofrece el examen.</li>
+<li>Implementaci&oacute;n de un laboratorio de estudio para practicar los objetivos del examen.</li>
+<li>Laboratorios online para practicar los objetivos del examen.</li>
+<li>Material Impreso y kit de alumno</li>
+<li>Soporte de 1 mes adicional al t&eacute;rmino del curso en laboratorios online y asesor&iacute;a.</li>
 </ul>
   <h3>Contacto</h3>
   <p>Puedes contactarnos a traves de Twitter: <a href="https://twitter.com/certificatestu1">@certificatestu1</a>.</p>
